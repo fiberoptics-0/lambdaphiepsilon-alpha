@@ -12,8 +12,8 @@
   background-position: center;
   background-repeat: no-repeat;
   background-image: url('../images/banner/mc_0.jpg');
-  -webkit-transition: background 1s ease-in-out;
-  -moz-transition: background 1s ease-in-out;
-  -o-transition: background 1s ease-in-out;
-  transition: background 1s ease-in-out;
+  -webkit-transition: background 1s ease-in-out 100ms;
+  -moz-transition: background 1s ease-in-out 100ms;
+  -o-transition: background 1s ease-in-out 100ms;
+  transition: background 1s ease-in-out 100ms;
 }
