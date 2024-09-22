@@ -1,3 +1,11 @@
 .center {
   text-align: center;
 }
+#bannerimage {
+  width: 100%;
+  background-image: url('../images/celestiacraft.png');
+  height: 405px;
+  background-color: aqua;
+  background-position: center;
+  background-repeat: no-repeat;
+}
