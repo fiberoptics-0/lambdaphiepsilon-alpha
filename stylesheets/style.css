@@ -1,11 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+}
 .center {
   text-align: center;
 }
-#bannerimage {
+#banner {
   width: 100%;
-  background-image: url('../images/celestiacraft.png');
-  height: 405px;
+  height: 400px;
   background-color: aqua;
   background-position: center;
   background-repeat: no-repeat;
+  background-image: url('../images/banner/mc_0.jpg');
+  -webkit-transition: background 1s ease-in-out;
+  -moz-transition: background 1s ease-in-out;
+  -o-transition: background 1s ease-in-out;
+  transition: background 1s ease-in-out;
 }
